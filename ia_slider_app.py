@@ -146,11 +146,11 @@ que serão submetidos à especialistas para realização de comparações
 criterios = ["Knowledge", "Communication", "Experience"]
 criterios = ['Precipitação','Elevação','Declividade','Uso e cobertura do solo','Textura do solo',]
 criterios = [
-"Análise automática de dados científicos",
 #"Previsão de tendências com IA",
-"Redução de vieses humanos na análise",
 "Geração de textos acadêmicos com IA",
+"Redução de vieses humanos na análise",
 "Adaptação da IA a diferentes áreas do conhecimento",
+"Análise automática de dados científicos",
 ]
 
 n = len(criterios)
