@@ -147,7 +147,7 @@ criterios = ["Knowledge", "Communication", "Experience"]
 criterios = ['Precipitação','Elevação','Declividade','Uso e cobertura do solo','Textura do solo',]
 criterios = [
 "Análise automática de dados científicos",
-"Previsão de tendências com IA",
+#"Previsão de tendências com IA",
 "Redução de vieses humanos na análise",
 "Geração de textos acadêmicos com IA",
 "Adaptação da IA a diferentes áreas do conhecimento",
