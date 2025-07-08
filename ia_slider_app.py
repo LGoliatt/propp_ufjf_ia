@@ -139,7 +139,7 @@ que serão submetidos à especialistas para realização de comparações
 '''
 )
 
-st.image('to_be_inserted.png')
+#st.image('to_be_inserted.png')
 
 
 # Critérios
